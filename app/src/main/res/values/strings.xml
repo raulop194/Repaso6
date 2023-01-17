@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Repaso</string>
+    <string name="startButtonText">Comenzar</string>
+    <string name="editTextHint">¿Quien es batman?</string>
+</resources>
